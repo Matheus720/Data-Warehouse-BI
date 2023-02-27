@@ -1,0 +1,16 @@
+SELECT * 
+FROM dimensional.fato_venda
+WHERE valor_venda > 500;
+
+
+SELECT nm_cliente, nm_cidade_cliente, nm_localidade, nm_marca_produto, nr_dia, nr_mes, valor_venda
+FROM dimensional.fato_venda F, 
+     dimensional.dim_cliente C, 
+     dimensional.dim_localidade L, 
+     dimensional.dim_produto P,
+     dimensional.dim_tempo T
+WHERE C.sk_cliente = F.sk_cliente
+  AND L.sk_localidade = F.sk_localidade
+  AND P.sk_produto = F.sk_produto
+  AND T.sk_data = F.sk_data
+  AND valor_venda > 500;

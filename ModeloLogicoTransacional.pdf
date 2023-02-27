@@ -1,0 +1,659 @@
+%PDF-1.5
+%âãÏÓ
+19 0 obj
+<</FunctionType 2/C0[0.97255 0.98824 1]/C1[0.77647 0.84706 0.91765]/Domain[0 1]/N 1>>
+endobj
+22 0 obj
+<</FunctionType 2/C0[0.97255 0.98824 1]/C1[0.77647 0.84706 0.91765]/Domain[0 1]/N 1>>
+endobj
+24 0 obj
+<</FunctionType 2/C0[0.97255 0.98824 1]/C1[0.77647 0.84706 0.91765]/Domain[0 1]/N 1>>
+endobj
+26 0 obj
+<</FunctionType 2/C0[0.97255 0.98824 1]/C1[0.77647 0.84706 0.91765]/Domain[0 1]/N 1>>
+endobj
+28 0 obj
+<</FunctionType 2/C0[0.97255 0.98824 1]/C1[0.77647 0.84706 0.91765]/Domain[0 1]/N 1>>
+endobj
+30 0 obj
+<</FunctionType 2/C0[0.97255 0.98824 1]/C1[0.77647 0.84706 0.91765]/Domain[0 1]/N 1>>
+endobj
+32 0 obj
+<</FunctionType 2/C0[0.97255 0.98824 1]/C1[0.77647 0.84706 0.91765]/Domain[0 1]/N 1>>
+endobj
+34 0 obj
+<</FunctionType 2/C0[0.97255 0.98824 1]/C1[0.77647 0.84706 0.91765]/Domain[0 1]/N 1>>
+endobj
+36 0 obj
+<</FunctionType 2/C0[0.97255 0.98824 1]/C1[0.77647 0.84706 0.91765]/Domain[0 1]/N 1>>
+endobj
+38 0 obj
+<</FunctionType 2/C0[1 1 1]/C1[1 0.98824 0.70588]/Domain[0 1]/N 1>>
+endobj
+40 0 obj
+<</BS<</S/U/W 0>>/A<</S/URI/URI(https://dbschema.com)>>/Subtype/Link/H/N/Rect[612.02 553.6 857.6 548]>>
+endobj
+41 0 obj
+<</Name/#23Comment/Contents(Table transacional.categoria)/Subtype/Stamp/Rect[96.8 328.96 140 317.6]/AP<</N 21 0 R>>>>
+endobj
+42 0 obj
+<</BS<</S/U/W 0>>/A<</S/URI/URI(#transacional.categoria)>>/Subtype/Link/H/N/Rect[96.8 326.4 140 317.6]>>
+endobj
+43 0 obj
+<</Name/#23Comment/Contents(id_categoria \nvarchar\(20\) not null \n)/Subtype/Stamp/Rect[79.36 310.56 136.01 299.2]/AP<</N 21 0 R>>>>
+endobj
+44 0 obj
+<</Name/#23Comment/Contents(nome_categoria \nvarchar\(50\) \n)/Subtype/Stamp/Rect[79.36 297.76 153.93 286.4]/AP<</N 21 0 R>>>>
+endobj
+45 0 obj
+<</Name/#23Comment/Contents(Table transacional.cliente)/Subtype/Stamp/Rect[537.6 495.36 569.6 484]/AP<</N 21 0 R>>>>
+endobj
+46 0 obj
+<</BS<</S/U/W 0>>/A<</S/URI/URI(#transacional.cliente)>>/Subtype/Link/H/N/Rect[537.6 492.8 569.6 484]>>
+endobj
+47 0 obj
+<</Name/#23Comment/Contents(id_cliente \nvarchar\(20\) not null \n)/Subtype/Stamp/Rect[514.56 476.96 558.49 465.6]/AP<</N 21 0 R>>>>
+endobj
+48 0 obj
+<</Name/#23Comment/Contents(nome_cliente \nvarchar\(100\) \n)/Subtype/Stamp/Rect[514.56 464.16 576.41 452.8]/AP<</N 21 0 R>>>>
+endobj
+49 0 obj
+<</Name/#23Comment/Contents(email_cliente \nvarchar\(50\) \n)/Subtype/Stamp/Rect[514.56 451.36 575.24 440]/AP<</N 21 0 R>>>>
+endobj
+50 0 obj
+<</Name/#23Comment/Contents(data_nascimento \ndatetime \n)/Subtype/Stamp/Rect[514.56 438.56 593.76 427.2]/AP<</N 21 0 R>>>>
+endobj
+51 0 obj
+<</Name/#23Comment/Contents(aceita_campanha \nbinary\(1\) \n)/Subtype/Stamp/Rect[514.56 425.76 596.65 414.4]/AP<</N 21 0 R>>>>
+endobj
+52 0 obj
+<</Name/#23Comment/Contents(Table transacional.endereco)/Subtype/Stamp/Rect[250.4 482.56 293.6 471.2]/AP<</N 21 0 R>>>>
+endobj
+53 0 obj
+<</BS<</S/U/W 0>>/A<</S/URI/URI(#transacional.endereco)>>/Subtype/Link/H/N/Rect[250.4 480 293.6 471.2]>>
+endobj
+54 0 obj
+<</Name/#23Comment/Contents(id_endereco \nvarchar\(20\) not null \n)/Subtype/Stamp/Rect[245.76 464.16 302.99 452.8]/AP<</N 21 0 R>>>>
+endobj
+55 0 obj
+<</Name/#23Comment/Contents(logradouro \nvarchar\(100\) \n)/Subtype/Stamp/Rect[245.76 451.36 295.47 440]/AP<</N 21 0 R>>>>
+endobj
+56 0 obj
+<</Name/#23Comment/Contents(numero \nvarchar\(10\) \n)/Subtype/Stamp/Rect[245.76 438.56 281.02 427.2]/AP<</N 21 0 R>>>>
+endobj
+57 0 obj
+<</Name/#23Comment/Contents(cidade \nvarchar\(20\) \n)/Subtype/Stamp/Rect[245.76 425.76 276.4 414.4]/AP<</N 21 0 R>>>>
+endobj
+58 0 obj
+<</Name/#23Comment/Contents(estado \nvarchar\(20\) \n)/Subtype/Stamp/Rect[245.76 412.96 276.98 401.6]/AP<</N 21 0 R>>>>
+endobj
+59 0 obj
+<</Name/#23Comment/Contents(pais \nvarchar\(20\) \n)/Subtype/Stamp/Rect[245.76 400.16 264.83 388.8]/AP<</N 21 0 R>>>>
+endobj
+60 0 obj
+<</Name/#23Comment/Contents(cep \nvarchar\(8\) \n)/Subtype/Stamp/Rect[245.76 387.36 262.52 376]/AP<</N 21 0 R>>>>
+endobj
+61 0 obj
+<</Name/#23Comment/Contents(id_cliente \nvarchar\(20\) \n)/Subtype/Stamp/Rect[245.76 374.56 289.69 363.2]/AP<</N 21 0 R>>>>
+endobj
+62 0 obj
+<</Name/#23Comment/Contents(Table transacional.funcionario)/Subtype/Stamp/Rect[719.2 469.76 771.2 458.4]/AP<</N 21 0 R>>>>
+endobj
+63 0 obj
+<</BS<</S/U/W 0>>/A<</S/URI/URI(#transacional.funcionario)>>/Subtype/Link/H/N/Rect[719.2 467.2 771.2 458.4]>>
+endobj
+64 0 obj
+<</Name/#23Comment/Contents(id_funcionario \nvarchar\(20\) not null \n)/Subtype/Stamp/Rect[706.56 451.36 771.3 440]/AP<</N 21 0 R>>>>
+endobj
+65 0 obj
+<</Name/#23Comment/Contents(nome_funcionario \nvarchar\(100\) \n)/Subtype/Stamp/Rect[706.56 438.56 789.22 427.2]/AP<</N 21 0 R>>>>
+endobj
+66 0 obj
+<</Name/#23Comment/Contents(especialidade \nvarchar\(50\) \n)/Subtype/Stamp/Rect[706.56 425.76 770.15 414.4]/AP<</N 21 0 R>>>>
+endobj
+67 0 obj
+<</Name/#23Comment/Contents(id_localidade \nvarchar\(20\) \n)/Subtype/Stamp/Rect[706.56 412.96 767.25 401.6]/AP<</N 21 0 R>>>>
+endobj
+68 0 obj
+<</Name/#23Comment/Contents(Table transacional.inventario)/Subtype/Stamp/Rect[600 136.96 647.2 125.6]/AP<</N 21 0 R>>>>
+endobj
+69 0 obj
+<</BS<</S/U/W 0>>/A<</S/URI/URI(#transacional.inventario)>>/Subtype/Link/H/N/Rect[600 134.4 647.2 125.6]>>
+endobj
+70 0 obj
+<</Name/#23Comment/Contents(id_inventario \nvarchar\(20\) not null \n)/Subtype/Stamp/Rect[565.76 118.56 624.72 107.2]/AP<</N 21 0 R>>>>
+endobj
+71 0 obj
+<</Name/#23Comment/Contents(data_entrada_inventario \ndatetime \n)/Subtype/Stamp/Rect[565.76 105.76 677.91 94.4]/AP<</N 21 0 R>>>>
+endobj
+72 0 obj
+<</Name/#23Comment/Contents(id_localidade \nvarchar\(20\) \n)/Subtype/Stamp/Rect[565.76 92.96 626.45 81.6]/AP<</N 21 0 R>>>>
+endobj
+73 0 obj
+<</Name/#23Comment/Contents(id_produto \nvarchar\(20\) \n)/Subtype/Stamp/Rect[565.76 80.16 614.9 68.8]/AP<</N 21 0 R>>>>
+endobj
+74 0 obj
+<</Name/#23Comment/Contents(Table transacional.item_produto)/Subtype/Stamp/Rect[124.8 175.36 188 164]/AP<</N 21 0 R>>>>
+endobj
+75 0 obj
+<</BS<</S/U/W 0>>/A<</S/URI/URI(#transacional.item_produto)>>/Subtype/Link/H/N/Rect[124.8 172.8 188 164]>>
+endobj
+76 0 obj
+<</Name/#23Comment/Contents(id_item \nvarchar\(20\) not null \n)/Subtype/Stamp/Rect[117.76 156.96 151.28 145.6]/AP<</N 21 0 R>>>>
+endobj
+77 0 obj
+<</Name/#23Comment/Contents(nome_item \nvarchar\(50\) \n)/Subtype/Stamp/Rect[117.76 144.16 169.2 132.8]/AP<</N 21 0 R>>>>
+endobj
+78 0 obj
+<</Name/#23Comment/Contents(marca \nvarchar\(30\) \n)/Subtype/Stamp/Rect[117.76 131.36 146.65 120]/AP<</N 21 0 R>>>>
+endobj
+79 0 obj
+<</Name/#23Comment/Contents(largura \ndecimal\(5,2\) \n)/Subtype/Stamp/Rect[117.76 118.56 150.12 107.2]/AP<</N 21 0 R>>>>
+endobj
+80 0 obj
+<</Name/#23Comment/Contents(altura \ndecimal\(5,2\) \n)/Subtype/Stamp/Rect[117.76 105.76 143.77 94.4]/AP<</N 21 0 R>>>>
+endobj
+81 0 obj
+<</Name/#23Comment/Contents(termos_garantia \nvarchar\(200\) \n)/Subtype/Stamp/Rect[117.76 92.96 192.9 81.6]/AP<</N 21 0 R>>>>
+endobj
+82 0 obj
+<</Name/#23Comment/Contents(id_produto \nvarchar\(20\) \n)/Subtype/Stamp/Rect[117.76 80.16 166.9 68.8]/AP<</N 21 0 R>>>>
+endobj
+83 0 obj
+<</Name/#23Comment/Contents(id_categoria \nvarchar\(20\) \n)/Subtype/Stamp/Rect[117.76 67.36 174.41 56]/AP<</N 21 0 R>>>>
+endobj
+84 0 obj
+<</Name/#23Comment/Contents(Table transacional.localidade)/Subtype/Stamp/Rect[785.6 252.16 833.6 240.8]/AP<</N 21 0 R>>>>
+endobj
+85 0 obj
+<</BS<</S/U/W 0>>/A<</S/URI/URI(#transacional.localidade)>>/Subtype/Link/H/N/Rect[785.6 249.6 833.6 240.8]>>
+endobj
+86 0 obj
+<</Name/#23Comment/Contents(id_localidade \nvarchar\(20\) not null \n)/Subtype/Stamp/Rect[770.56 233.76 831.25 222.4]/AP<</N 21 0 R>>>>
+endobj
+87 0 obj
+<</Name/#23Comment/Contents(nome_localidade \nvarchar\(50\) \n)/Subtype/Stamp/Rect[770.56 220.96 849.17 209.6]/AP<</N 21 0 R>>>>
+endobj
+88 0 obj
+<</Name/#23Comment/Contents(logradouro \nvarchar\(100\) \n)/Subtype/Stamp/Rect[770.56 208.16 820.27 196.8]/AP<</N 21 0 R>>>>
+endobj
+89 0 obj
+<</Name/#23Comment/Contents(numero \nvarchar\(10\) \n)/Subtype/Stamp/Rect[770.56 195.36 805.82 184]/AP<</N 21 0 R>>>>
+endobj
+90 0 obj
+<</Name/#23Comment/Contents(cidade \nvarchar\(20\) \n)/Subtype/Stamp/Rect[770.56 182.56 801.2 171.2]/AP<</N 21 0 R>>>>
+endobj
+91 0 obj
+<</Name/#23Comment/Contents(estado \nvarchar\(20\) \n)/Subtype/Stamp/Rect[770.56 169.76 801.78 158.4]/AP<</N 21 0 R>>>>
+endobj
+92 0 obj
+<</Name/#23Comment/Contents(pais \nvarchar\(20\) \n)/Subtype/Stamp/Rect[770.56 156.96 789.63 145.6]/AP<</N 21 0 R>>>>
+endobj
+93 0 obj
+<</Name/#23Comment/Contents(cep \nvarchar\(8\) \n)/Subtype/Stamp/Rect[770.56 144.16 787.32 132.8]/AP<</N 21 0 R>>>>
+endobj
+94 0 obj
+<</Name/#23Comment/Contents(Table transacional.produto)/Subtype/Stamp/Rect[375.2 124.16 411.2 112.8]/AP<</N 21 0 R>>>>
+endobj
+95 0 obj
+<</BS<</S/U/W 0>>/A<</S/URI/URI(#transacional.produto)>>/Subtype/Link/H/N/Rect[375.2 121.6 411.2 112.8]>>
+endobj
+96 0 obj
+<</Name/#23Comment/Contents(id_produto \nvarchar\(20\) not null \n)/Subtype/Stamp/Rect[360.96 105.76 410.1 94.4]/AP<</N 21 0 R>>>>
+endobj
+97 0 obj
+<</Name/#23Comment/Contents(sku \nvarchar\(30\) \n)/Subtype/Stamp/Rect[360.96 92.96 377.14 81.6]/AP<</N 21 0 R>>>>
+endobj
+98 0 obj
+<</Name/#23Comment/Contents(nome_produto \nvarchar\(100\) \n)/Subtype/Stamp/Rect[360.96 80.16 428.02 68.8]/AP<</N 21 0 R>>>>
+endobj
+99 0 obj
+<</Name/#23Comment/Contents(Table transacional.venda)/Subtype/Stamp/Rect[386.4 341.76 413.6 330.4]/AP<</N 21 0 R>>>>
+endobj
+100 0 obj
+<</BS<</S/U/W 0>>/A<</S/URI/URI(#transacional.venda)>>/Subtype/Link/H/N/Rect[386.4 339.2 413.6 330.4]>>
+endobj
+101 0 obj
+<</Name/#23Comment/Contents(id_transacao \nvarchar\(50\) not null \n)/Subtype/Stamp/Rect[360.96 323.36 420.5 312]/AP<</N 21 0 R>>>>
+endobj
+102 0 obj
+<</Name/#23Comment/Contents(data_transacao \ndatetime \n)/Subtype/Stamp/Rect[360.96 310.56 432.65 299.2]/AP<</N 21 0 R>>>>
+endobj
+103 0 obj
+<</Name/#23Comment/Contents(valor_venda \ndecimal\(5,2\) \n)/Subtype/Stamp/Rect[360.96 297.76 417.61 286.4]/AP<</N 21 0 R>>>>
+endobj
+104 0 obj
+<</Name/#23Comment/Contents(quantidade_venda \nint \n)/Subtype/Stamp/Rect[360.96 284.96 446.53 273.6]/AP<</N 21 0 R>>>>
+endobj
+105 0 obj
+<</Name/#23Comment/Contents(tipo_pagamento \nvarchar\(15\) \n)/Subtype/Stamp/Rect[360.96 272.16 435.54 260.8]/AP<</N 21 0 R>>>>
+endobj
+106 0 obj
+<</Name/#23Comment/Contents(id_cliente \nvarchar\(20\) \n)/Subtype/Stamp/Rect[360.96 259.36 404.89 248]/AP<</N 21 0 R>>>>
+endobj
+107 0 obj
+<</Name/#23Comment/Contents(id_produto \nvarchar\(20\) \n)/Subtype/Stamp/Rect[360.96 246.56 410.1 235.2]/AP<</N 21 0 R>>>>
+endobj
+108 0 obj
+<</Name/#23Comment/Contents(id_funcionario \nvarchar\(20\) \n)/Subtype/Stamp/Rect[360.96 233.76 425.7 222.4]/AP<</N 21 0 R>>>>
+endobj
+109 0 obj
+<</Name/#23Comment/Contents(id_localidade \nvarchar\(20\) \n)/Subtype/Stamp/Rect[360.96 220.96 421.65 209.6]/AP<</N 21 0 R>>>>
+endobj
+110 0 obj
+<</Filter/FlateDecode/Length 3899>>stream
+xœİ\Í#¹¾û)
+È%9´·ô[Òu±ù9l€İl,Çí™í¤lÏº»'·¼O//’UUvÛíªZLgÒš´%òcI")Jå__ß.\]5­nï¿¿]|¿¨—©ªùŸü5Æ-³­ÖÛÅW0•¡fï©…‰uCßÒßÿm¢oªÃg¤·©œ­‚k–±ºİ.~ûçıİ¦İ»ÿp¿ŞßV»‡Õú~¿[µ¿»ı;kıaØ±‰aY;ÿiÿis¨Öûöi»{¨÷Õa³º«ŞĞgÛíf÷øPcì­­©ş]}ó·Ö?o¶«Nø%ÀùãBPzR´]S{eZêÄö:µ7×&Gê–k¸{¶&ˆ½s©
+5?¦zÙÔ¡ÏõïÍéÜÚ®«³ÚZ°W·‡ûÁã¹,íXjyÃ€n
+¢«ğní¾(’m€	_Ú ¢ñ#`Ü—7‚I!Éêw¼z7^Ñ†Æ†@b‚Ï´pë¥Ï<­®K_±áKªş;ÿèª|u÷’OÁ§ Ş!ÒG Ù9üøÙ·ø…’<ú-5Î¬·ÕW}oªoöÕ÷GM¼‰GMš†Ñ×‰´”¼¿{·nïÉÁmƒøyMÎÑW4EÅd¦­Í§&cnĞŸLQÃšæ¹ÅG-\4gî›Äº²ôLhY¨Éí~½jïïVwbu?İjnğ*!%2Üà„²Åã`R~,Ÿôq=BdšG½½yiJ$r"ëÒŒH)U6ôâøéÈãaQl"pná,ä¢.Èp<G\¾<æ/á&-C‚Õ
+ùãa÷ô¸µ9lÉØ€)ìmòÂ¢õáã‹déùŸÁÅ`›HEsÙÚ€Oä\˜é³‹N§”!§kİ7sÔÂ¸æì¢+Mx”kB`:?³zÜ|ØS¼ø,kî‹öò² ¼é‡7˜0BË‚§®J}BPp9œ[BİÓäœ/Pàõší2˜3àÜğŒ‰fÁv³ŒéxÙ³û¨sú’cçÆ¾èØ=Mä˜–&Y3-´Ô\Å‚ÄO¨†	ì¯A%!é>m-şî‹„æŒ•ıXÚú8sn)uşRº~ù¿ÚÉÖæp?É°iÖhÜuVéS,{Ì/º-FnÏĞ9¢÷åÈÂÊğjâ ¤SÇRº]XK&Xe-M|K~Ç$|¦]´=?­š·wÚÏe‚Z³*§Æ'Ç¡=zÊ$h[«šVH(G/`êp¯¼kÄ4©v™÷·ÖNÆS´M¸ß,µ·Ë;©=8Fn–Æ*KfÈWq)ÎZOI=¬%ÎÕ‘$µ…#Ü†Ã°ÅµˆtĞk(C–Ø¥<æš,_HĞ"y½J[e ½s`ÏZF“­Ol.oAê’lEh2"ëù¿cÚµ·z|ÜvÕú¡úê;S=¬wbXÊ½a)&¬XCih1,7¯bXn:Ã \KY‚'/7ÆĞâ'‡ÏhYËÇurË*—×õQ\G /}ÈÑ„èS;RM–5féÕgdøŒgíê£V	­dr“³Hõƒ-ÍsHKçÈ1²?äÿ²IJ¯R†m Óx…V¾¬=$Õ¾Ûo7ãõ“<Ğ‰y|î #ùl—±z
+ iiF/3EX©id™ÀLú«‡é`J{¦OíÄ‹³LPkÑ4!¬<aÀrê¡AbRJFR—ö¾@Ğ®€Öãå)£3ìŒ2\%cg–á*¹~Ç~NX²G¾ßÆ×p•à‚z½Â%qu¬e(ÒA¯U386'²»­ã¯ ¢0p°à ¹UNA©ÀÚ5Âe¾¥Q?õV|'·ğ¹é,ôê±&XOªÔÂ î5,êœA›…€ÖãçyM3Â‹ò>²Å‹Va.ùPÖM
+) _q¢‚dĞìŠ³§àşBeèŠ•á¨íDUyŒG^tœú£º~=òøüa^ÑjíºÙ®îÛ¹ :)Ó¸ÄîV«w»ÕÃúOöS!ôr&C0%­Ö›{±^m?®v?O	e¡“ó¯ç¡ÌfÊg,ò%Ç ­Fˆ¿,,¹ÒÊ9IY@b‰1]\Ó¡¶¼jµ+Ë,.‚u•%l³‘%/,—]´3“e	3í´z)ºZT(³9°Ë·IB»şF96¹‘P&,GúŠÒiŸ:&J  çs’ Ñsù"‚äí4‡‡æPö
+¹–P&¬•Ô]E€t~²YÍmÇ	(¸C»F„²·4ê§¡ÌI(ã>™ÎBĞ…`Å”Š…^óï×°Ğ—}‰Ğa`! õøy^£s†¦×K¡Œ¶ ƒ3…ÍînsØ¬÷×c+g·ï®Å22hv%–¹º9
+'ËƒºêÆdçDUßÅvÿá°ºÛ?&kŸJT{vOÛÍtÍ]÷éš;Ï¿>.õŒÔlïÆj®Kò²yx¤>Us×}²f—Ê4ù¸º˜¨·ï<]oS&ÈzóqªÚföära¸Ùš%Šò0Øj‡²šK)ƒZƒ©9
+4ğ‹Ä`×#<qäš“däJÃ5
+S|¯2‘ıaé_%¢‹ûeÅ=¦ˆô%®Ñ£;H¸G¦Ö‚Ú {;FÖegØDIÇÿQ˜Xìy…g£øËTsPî8/XYNå> a#Gú"ÇS w•*³VàØ,Ù¶‚MQ¶·Rì—ÁA{Ûq‚LE ôĞ¾1ÅÂ78NÓê!k¡·Lo)xØsg©oÜ«Zêõ¨Chà(]`o‡”¥U±N9«lv)ç7.W£8~ß\-)2šA³+DJÇÂÇ.W}ù@ïè-±"èÃ8o‰'`ÖkÄœˆ® º¼yø¸YßŸáŒE0'²+‚zP–8sŠ4n\Î—ƒN¤Ü÷Æ%j°•ÅºåS@^B`Sª‰òä»•d…\“¯+]²L6¨Ã££Ìk¨‹•õè:ŠÈ½…‹äüĞ)]DLBG«´¨Ö~€ÔãWV•=Û£ÕC©86U6’`Éù*,ƒíòn0—¸ˆM%˜FÎT@ÃQˆn´8*ZÔa#öÂEÙ\¢7èˆ+hl;NÀhÀÚ3¦œúFù4ˆ”QyïV®-ÈÎ.Ã¹©Â^»\(ù¼FÄk!E¯ö4^©š&ıÔä—wšM^…Ù}¢Ìs\ ˆ²ÕtW¢œ¯ÒáA6|ÓU÷()Â÷õ[•¢!i§Íæj>^ÜT ¿ÒGËz¤ñÈ9§/=ÀáÁÅ;acôŞ‹]ÆÑ"¤­;Kùè–è$ÎCXËR{^>Ê¢eÚèIh9lĞ®¸èÂ2õÊ‹è2zRaœ,°Æ¦Ò¤æ€DCW´+ õøG…
+ãÄµ† ¡‚ÀqMÎ*„µˆ"´¥¶0”ò˜MœÑ¸ÂÉñ™Š0r°éFOà Ùè	œqâïÁË‘@EA4·…(¸C»F„Œ·4ê§¡#Jèàz Ç`´© …ì8û©5ÈW0Ïh4¶yèŠS¶‚§4·uöfBTÁâ,7ÛçîâR$aírUæJ$a0ãßŒg6<}cTSîĞsN3
+XP||ò6Cõœ:)Tw{¬íê°tc"újNj»xÛ®Swİ3UqÀÖ>N×Ûõ¬·››ÃvÿğîÃê°Ú=N»¢Â·Òç>ï_›Åñ‰Íc•ÛÜ+Ÿs;ˆÕ;{95ÈÁVzÁ×Ô©®|)Æ$`ÄÉÕœå”oJÂËÕ¾…¥÷LÁP@“ê:ã
+¥ˆÕw!Dèv‘½”`ÀÊ½Mt²†¦uG ¤€Ğ‚­Ã?*3ÈAê„µ*e¨‰C}±–2e’Ò£G•LÒ"¥pÖÔZ¤TÖ£H	!Ö$)RŠ0kUÍ‘
+#Øì|%B
+ƒÒ&8CWe–
+¼»F$ohÌOó‚Fòn`ôî‘@1zù¨ /øîş¨aæU­´z‰iÅ¡]°·ƒg7Z¹YBæl®.¯™œÛÒ\Ê2<}®%	fĞìÚUÇèDn	³«a<˜µão;@,a@Ò…ñJ‚Œ!Îˆ'ŠÁÇn`f¯B½Ÿ‘µ¨zW2Éç«Pífd.ªÚ”Ücò+T›¥¨Î}!xâ«hÎ3
+ÀPÜe¶ÏWEíœ´j»¬vÚñªh=“wé‚÷uW†¡/C†0(Cò‹rZ‰2d;’K¼?TWA\¢v”ÒÔêëÑ*œçâ©Öäø4ôóÎ–˜Äd)C‚ÕÚzÜ£òïò ØL¸ÅæÅæÅæÂ Ø. MPFâ»
+ø!: A€Ö 7¥ØŠÎãb¯ôVºÖfPl.œ€Ñş€9´gD‚ğFù43H’p}‘ƒqè{
+O8)Ä$ŸÓ(Í¾˜„^í%h:¼<m¥‰+U‡â¿¹Ëtt}€õ’“¾ú†ù}0Ã½ãœ=?\3#æCuñ¡ÿxšà	Yçï•ı–QÒŒ‘Ÿhï…\ğÃ¦{k9)M³³±’ß
+ËoJ/•'(~É”ZÌ-‡æÚYf¹2(sP¯<–¹‰+<Ñ¤é&5tµJ›Á´´ÿln˜yÂè5ÏĞ8)Ç
+KöğW^.q·KÀ9­ÍN®…¨çØ«B:èâ“ÁuN,Ü­Š(Œøehn;N@©ÀÚ5Ò/¿•Q?õÏ¹÷Ïuè,,/˜˜Â}¿U-,/˜½†…å6¡¡th=şÎa×cn’øäïÊ~ÚìîF¼•‡Í×œGxìa³Q.›oLw>û?L´šäÄb™ìDûãäxp6‚fÆ+Š {«íÓªİŞË8õaFİSÕû€~yâŠ'o™æaèMÇ`»ÍÀıÇı»««©ïu;c¿ªÌ`N¾²)ÊëÁ-¦±åWM[òà„|zŞÂ.:?¿/:Vù°Z2ë— VK&ˆ¿ò`\ô‡çw—NŞD®ÅõSœ£öÃ_‚Š&ÄŒŸ¡ ”Ö.Ë[Ê ñ
+yòÊZN¥c^6JÊÃ[/„Ö†B“C’Ÿ@WÊo5šé÷/3P6^8_—LéÕB&EM+$”k/ÁÔá^/¾îŸ3~/Š\ôíû£uR€ö?
+W}ûşU¸êìÏÂõ?;õ_>
+endstream
+endobj
+112 0 obj
+<</Contents 110 0 R/Type/Page/Resources<</Font<</F1 18 0 R>>/XObject<</Xf1 1 0 R/Xf9 9 0 R/Xf8 8 0 R/Xf5 5 0 R/Xf15 15 0 R/Xf14 14 0 R>>/Pattern<</P1 20 0 R/P2 23 0 R/P3 25 0 R/P4 27 0 R/P5 29 0 R/P6 31 0 R/P7 33 0 R/P10 39 0 R/P8 35 0 R/P9 37 0 R>>>>/Annots[40 0 R 41 0 R 42 0 R 43 0 R 44 0 R 45 0 R 46 0 R 47 0 R 48 0 R 49 0 R 50 0 R 51 0 R 52 0 R 53 0 R 54 0 R 55 0 R 56 0 R 57 0 R 58 0 R 59 0 R 60 0 R 61 0 R 62 0 R 63 0 R 64 0 R 65 0 R 66 0 R 67 0 R 68 0 R 69 0 R 70 0 R 71 0 R 72 0 R 73 0 R 74 0 R 75 0 R 76 0 R 77 0 R 78 0 R 79 0 R 80 0 R 81 0 R 82 0 R 83 0 R 84 0 R 85 0 R 86 0 R 87 0 R 88 0 R 89 0 R 90 0 R 91 0 R 92 0 R 93 0 R 94 0 R 95 0 R 96 0 R 97 0 R 98 0 R 99 0 R 100 0 R 101 0 R 102 0 R 103 0 R 104 0 R 105 0 R 106 0 R 107 0 R 108 0 R 109 0 R]/Parent 111 0 R/MediaBox[0 0 908.8 569.6]>>
+endobj
+114 0 obj
+<</Filter/FlateDecode/Length 1211>>stream
+xœµZMÛ6½ëWğè-PUüÒÇ¡— M~ Mëã#ÓYrdoÚüûeÅë%‘Ïëb"dÎÛGr8ó8Ô§èÅ2’	Ë…`ËU”°ïyê?¼äŒÓ«u´ø½]Ùºı­İTe»ìL³7eÕ6¦¾[~ şÉ`¦İsÁ¾äg¨jh	ùµÅ³Üµ~^Fo¢Oı?úë6M–I¦•f<gÖQZŠ}ûzSO™Çœú+oÿ´ïèL„Ò±²‘\Æêh“ò82!Z<ƒi‘	LËÙ ´Ò¼8ÎíĞÛÍ½`¿Ğ‚¼¢VÒ·>D<ÖìB";rƒ$V²î™*I†½Št¦İ2ÅôØKæÚuô7!¾q^Å™sÎ¤¤É©¶gN5LKó®¶¬4»i»Ê=jãÜäT°,å'Ğd MÀ/èGzJxúûóã8R–ô3€U«·>z\»¥A@?›®|oºû…Hîïf©ª,µi·6,{"«'Éº¢¥ÿrrÙ_7+û¯İOƒñ"œŸg±¨İÇÀùC@<ˆFœèğéûcw ¨<=}iø¢m6Uc|İ4íO/Î ŸFéTs J§B¢áĞ™ á°·Â¡.àäáLPZ½B+ÍDiOoy³˜N‹zŠéC{<¦§ZÁ1½®ls°Ó>*-ä‹è˜Û³äú-AÇóT\nsO< Š€¨òÄÇ•#Qdkª:ˆ,‚z\u$´•9˜·Ù—Õ–Ø¶slQ\{ ÌY¢ùešœ4¥­ˆji¶;Ó¼ŸÍHî»ª1İr™|®ÓKÿ¿:ŸkxèüV‡ \>÷»$é4ZuéâWçr- Ëå*Ï€\®t&Mg‚&ÍŞHš40-2i9„V+gÓJ0å#3Xù8”VoƒĞRğ±Ù™À´vl–vyg¢“4ÎCeœ(ø­díç“ŒÚã2N	*ã,EöÎ–SIR0•ÁÓ§ã 0ŠÄv}t‡0ƒ…œBûu»éÌª}èæ‰^UAğÊ8•¶ÖÃòªÒ÷‘©L¢–ÕÊ¬f3:¾æÈ©ßî´ä³$¸p’#…„i}dª)åq¤ˆ€S”Hy¢´»9†Ö‰aî!˜>vœ„ f’"¯LoXq“êf7ŠzH‡0ı‰Æ+zÛË¶³Õ¦a¿Ú/38Œ\ Î¸~ùWb÷öèNìş¤ÁšMı8=¶äÒ×®>ˆ¥aç¡‘!`éêLPØÛ ‘°tu&(­Ş¡•ÂÒÕ™À´Rì´Æ|Zs&¢æ\ŞJQ“‡õĞWÔBÃ—]ë‡¦¿Síªéè$F*W‹jŒ"ŒŸ`’!Ø`m rG_ ¥‹ ‡«kÁ‘ğ¸ßÙ²2µW¿B¨ÁER^`I´nË ®j˜²á9œ}Ê†g€ŸÎï$Š”M kB°A”F­ªo¸ÜrıdügÎ4™óG¡3ßez¨¨TûäçÀ‰'LîPò ª­°ª¸¢vQ{Îw!úñ³=óUHæÉªùLBwÖÉG@Ï¸B„ö —İp‰øœğxÛ_uÑÎ¬L gŞ{ã5rĞz~ÒA@§&ö?”­y|
+endstream
+endobj
+113 0 obj
+<</Contents 114 0 R/Type/Page/Resources<</Font<</F1 18 0 R>>>>/Parent 111 0 R/MediaBox[0 0 595 842]>>
+endobj
+116 0 obj
+<</Filter/FlateDecode/Length 1224>>stream
+xœ­YM“ã4¼ûWè8CAĞ§í¸lÁn-`!Ç©J‰Ø	ŞIì¬ãàßóäxL2‰%õljV&z–ôüÔ-}IŞ-ÅY.%[	gß	Í‡–ÔùK‹§/ßª¾õÓ"ù”|Isí¦Gàšm˜ÈY[&ë„ÏæFÎ5{ı<öÎæœ©|&¨¿öOû.Dj3“Q1J¨™>Æ¤b–F…­TÂ´(¦åbZJÃ´(Äğt–ÇÑ¢ß 5î×oèíÖW²ŸiÑ?P‹÷­Ï‰˜ö7!Qœ„ Õ\ºgªşş!1™q©0£ÇnH×Ş&â'—m‚qúL)ú2c‹]òı{J#Ê¿õ$0Q¼[Ø?·%«êç²îl[5÷‹ÏDiãrñ5ãÇ\‘#0€9! óT¸§¢Á÷ÀU±Ü·MñÔM@*aúT Ÿm»úË¶w’?ÜO J–eùääğ?ÖEùOy˜Ku<¿ß½³‡@í—¡5&A¥5	¢Ò˜ŸÀ÷M[V›šıRş;1‹Ãè]‰‹å¹>ırÛ¬ì¶*lQ²‡;Fc8ıÇ=½Wkæïâå%<ç5¤÷ğ‹ã§#£©/§giûë¾«šz:mÓ9e½©êò‡uİüøîò|'J²¥2Ek«AK~”|3ÏQZ.¥ÕÇ ´2xßv!0­Û·†÷mÓÒØ¾m¼o»˜–‹héNyÉ	mò[É	zŸG91´¯Ë‰Ôàr¢+wİŸj”*ï7Ì¿¹B`n$†¾mÂ‹Ğ%KyYã'QëfW†y"ˆ#Oâ)€ícG¨ÖËA9ªG~©R&Q·¶İ<µ~–^Q®ªİÒL~+ı4Mè»í,!8€e¤{W¶»æ°ÜØÖÖ]å§‹à¼Fµ7Èú8#AF¿ğFcê|e»rÓ´IE@ã<“Q€äy&#€õ—uÊy¦ğÆsœB×¿]Ğxùe’µ_Ò9ëó‘ßÒ™l2 å^³“zøÉ“ÏGF¾“³®S eC~Ik âü’~9ù‰òK*ƒ‰A5mhZe`câB`Z3&JÂÆÄ…À´$fL\¤å> ´ú„V
+ÓJ1/.ÕÍ¼½k£—Ú×½ŒæsÔËü’4Y=rÚr2ØÙI—oÃƒP£åÊÍÜû™H¶n´«Q)Pä·Í¦µEóÔzu9!}K!À¼>íÊ Kî„e€¤Ê*¼æ\|†Jä ôĞÑ’{I"pñ$î{[Mé˜#E,š¢œ‰¾*÷>†ÖÈ0÷hA™
+<d_d
+$¢¿–CPd_âª#„³CĞ˜Íe^¿YLKd`œ˜–œbZd°<t!¨àéc Á#´><Şâf7Ç4{£<Ú×å-*B§¼ñ±!mÅû@ÑåR ~ùğøäeˆ`EŸŠ+öÙ/İb&‘C.®Xó7×v¡ %ÈEŠj{Ìô!Áô¦ÑŠ^)~û+eäFYÁ&VáV½¶°_sÁvr¿æ»^ƒo×Ëº˜: –Ñú¡z‹`Q>v­­veıG¯oñ"AkñÂv6*ˆZvÕnBbr*äÛ¦]ú–ú¨ÈÉë ÿ é€ÙÑ
+endstream
+endobj
+115 0 obj
+<</Contents 116 0 R/Type/Page/Resources<</Font<</F1 18 0 R>>>>/Parent 111 0 R/MediaBox[0 0 595 842]>>
+endobj
+117 0 obj
+<</Filter/FlateDecode/Length 585>>stream
+xœ••MsÓ0†ïú:&Œ¾c¸t Â
+>f&#b%¸MäÄu
+ü{V¶ë¦t¬xÇ)Öî«gå}•#¹Ê‰d4‚æaôi˜}ÊÉ9NÃSoÛ¦¨Všò”ÖlK2-2Eÿ»èEÆ¨Lñêb¼iCŠP:“r$—‰êrOÌ¤À2)h¬ƒÁ’
+)h¬ƒÁb¦ûä“¢Í"ÅDktƒ„ÍL’NŞC ¿vHAí¡3õªê`A?ƒ—n`ÆÚÙ=á‰¦¿A	ò¸ %3F£$$~¿!z¡ƒÃö½ÛÂ|G~€â]°)§N¥„ÅÍ÷äı5¸Œ»ÄYnî}r¾°óüh¶Áİg‚Ö¹Oš¬×d Z‚g†‡QBİ­æñd}S¶p«ˆ°äºµ(B¸ôMZl²VSªÕÁníŞù¦Š"bdŸl½şeëåŒëå<
+k¢ğbµŞ• ê¢ ÉT° à+è¡®ŠÓ…ÅHN•º9ùuYy[—qXŒìtXéûbµ«Öv×z*ÊŠQÀ*à¾íşÑÛäÖî{3¢C¿=Ä%ux¸|¡á‹4µõvmÇšªMß¶ùèÑ]Wµ+·~qGÎ¯¯Û ÚqÓ×ı|{ĞåŒ¾Ü%t9‡¥[ŒbhD§ıİĞï4üê0Æ£q7gÎïw{õ¦Ã¹Åˆ^°^<Şoxş¢ƒŠ‡Œw"Gtâ×CU›Xgˆt~[z÷áÖûêãÕ™ä?²Êa
+endstream
+endobj
+118 0 obj
+<</Contents 117 0 R/Type/Page/Resources<</Font<</F1 18 0 R>>>>/Parent 111 0 R/MediaBox[0 0 595 842]>>
+endobj
+119 0 obj
+[113 0 R/XYZ 30 818 0]
+endobj
+120 0 obj
+[113 0 R/XYZ 33 788 0]
+endobj
+121 0 obj
+[113 0 R/XYZ 33 666 0]
+endobj
+122 0 obj
+[113 0 R/XYZ 33 502 0]
+endobj
+123 0 obj
+[113 0 R/XYZ 33 268 0]
+endobj
+124 0 obj
+[113 0 R/XYZ 33 90 0]
+endobj
+125 0 obj
+[115 0 R/XYZ 33 669 0]
+endobj
+126 0 obj
+[115 0 R/XYZ 33 421 0]
+endobj
+127 0 obj
+[115 0 R/XYZ 33 215 0]
+endobj
+128 0 obj
+[115 0 R/XYZ 33 79 0]
+endobj
+18 0 obj
+<</Subtype/Type1/Type/Font/BaseFont/Helvetica/Encoding/WinAnsiEncoding>>
+endobj
+1 0 obj
+<</Subtype/Form/Filter/FlateDecode/Type/XObject/Matrix [1 0 0 1 0 0]/FormType 1/Resources<<>>/BBox[0 0 16 16]/Length 36>>stream
+xœ3P°PÈå24R9\Á\`®…‚	g¡`h¤œ¸ }[°
+endstream
+endobj
+2 0 obj
+<</Subtype/Form/Filter/FlateDecode/Type/XObject/Matrix [1 0 0 1 0 0]/FormType 1/Resources<<>>/BBox[0 0 16 16]/Length 8>>stream
+xœ    
+endstream
+endobj
+3 0 obj
+<</Subtype/Form/Filter/FlateDecode/Type/XObject/Matrix [1 0 0 1 0 0]/FormType 1/Resources<<>>/BBox[0 0 16 16]/Length 8>>stream
+xœ    
+endstream
+endobj
+4 0 obj
+<</Subtype/Form/Filter/FlateDecode/Type/XObject/Matrix [1 0 0 1 0 0]/FormType 1/Resources<<>>/BBox[0 0 16 16]/Length 88>>stream
+xœMNÁÀ û3…p…³ˆs8‚ßºÿ·4Øk?$„ ñâe‘XÀEƒä`í)uVËòN'·º›“›¤	Ìc
+ÊÖ“>kîÿN=»ƒ¼ÔH¿¡næt›
+endstream
+endobj
+5 0 obj
+<</Subtype/Form/Filter/FlateDecode/Type/XObject/Matrix [1 0 0 1 0 0]/FormType 1/Resources<<>>/BBox[0 0 16 16]/Length 100>>stream
+xœ-» !sª ‚}â±+Áô®ÿôx«‘¬0¡¡Ÿ˜çóÊ#^Ù!,TWÇXjué@k·t”y‹†2N˜9%8fWæ¦ï¤-ÜJæ%&ïñ)ÔÓ"¨•…Uêı!, x
+endstream
+endobj
+6 0 obj
+<</Subtype/Form/Filter/FlateDecode/Type/XObject/Matrix [1 0 0 1 0 0]/FormType 1/Resources<<>>/BBox[0 0 16 16]/Length 42>>stream
+xœ3P°PÈå24R9\Á\¨\ ×BÁĞÌR >‚
+  oy›
+endstream
+endobj
+7 0 obj
+<</Subtype/Form/Filter/FlateDecode/Type/XObject/Matrix [1 0 0 1 0 0]/FormType 1/Resources<<>>/BBox[0 0 16 16]/Length 38>>stream
+xœ3P°PÈå24R9\Á †	oæ9†F`a¨(” =	ø
+endstream
+endobj
+8 0 obj
+<</Subtype/Form/Filter/FlateDecode/Type/XObject/Matrix [1 0 0 1 0 0]/FormType 1/Resources<<>>/BBox[0 0 16 16]/Length 59>>stream
+xœ3T(ç2Tğâ,.=sSC=SK¥äÎe¤`h¨Ëe¢`©ÃäZ‚y@A {Ë
+endstream
+endobj
+9 0 obj
+<</Subtype/Form/Filter/FlateDecode/Type/XObject/Matrix [1 0 0 1 0 0]/FormType 1/Resources<<>>/BBox[0 0 16 16]/Length 169>>stream
+xœE=Ã FwŸÂ'°0ØÖ,•:ö
+*UéÒ¡¹~?C›ğğ™?çƒ”¯hJÒZvç$U½v0[K•o,uÏİ0µ-tså×Teá&ŸS»ô:»seÈF.fÓ‹|#!‘Ø(lF÷›ntFGñ›Y¹’U7Hœñ¢LKüÆ	ÜÇI	>MGŞ¤Ã¢Â%sìV8RõË¸MWüÕA”:û
+endstream
+endobj
+10 0 obj
+<</Subtype/Form/Filter/FlateDecode/Type/XObject/Matrix [1 0 0 1 0 0]/FormType 1/Resources<<>>/BBox[0 0 16 16]/Length 127>>stream
+xœEAÃ0ï¼‚ À6Ô/¨ÔcòßªæœïÇà6=À®¼³H|à˜ÌÔ2•âÊ·'<gês@¥†1ØAW2ñàMšõ©Z-Š"ô@ÏVÚNİÖº“4Õº|¡/&ˆáÈõ{p£YşŸYÍ}şì„öÅ*‹
+endstream
+endobj
+11 0 obj
+<</Subtype/Form/Filter/FlateDecode/Type/XObject/Matrix [1 0 0 1 0 0]/FormType 1/Resources<<>>/BBox[0 0 16 16]/Length 149>>stream
+xœEKÃ0D÷œ‚ 0Ä'¨Ôe|ïªdëp“.O03HÎø†ŒH$R´a¢ZµxO=Ü_ ¤ØhÃ3¨SÃ7›0àŞmÄA>«xY¢¿Ø®emì€_Ü¤[/¬IüTÎ– á
+ìÔe•g0¡óâJ?‰ƒ+&8… Ê=÷>á‘†ù³œÃşâ‚/[¯4 
+endstream
+endobj
+12 0 obj
+<</Subtype/Form/Filter/FlateDecode/Type/XObject/Matrix [1 0 0 1 0 0]/FormType 1/Resources<<>>/BBox[0 0 16 16]/Length 81>>stream
+xœ3Tğâ2TÈâ2Ğ³4473U0Ğ³°414Ò&FÆ¦
+Eé@)sc  
+™™›€”[)¹s™*˜*aQ*—ĞCÇ™ â%w
+endstream
+endobj
+13 0 obj
+<</Subtype/Form/Filter/FlateDecode/Type/XObject/Matrix [1 0 0 1 0 0]/FormType 1/Resources<<>>/BBox[0 0 16 16]/Length 80>>stream
+xœ5‰«À0¹§xD¶ãOBK*v‡ªRaö5):İ`‘à%ne¸ç°bÚdÅuÖòÑ+Móâ4ì‡CÇ¾é … ù ÜÍØ
+endstream
+endobj
+14 0 obj
+<</Subtype/Form/Filter/FlateDecode/Type/XObject/Matrix [1 0 0 1 0 0]/FormType 1/Resources<<>>/BBox[0 0 16 16]/Length 76>>stream
+xœ3R(ç2Tğâ,.=ss#SS=3CS3K mdbn`¦ä”2U0RÈå2S°²r¸‚Á"¦@œ•Ëá2V0‚Ê øoŞ
+endstream
+endobj
+15 0 obj
+<</Subtype/Form/Filter/FlateDecode/Type/XObject/Matrix [1 0 0 1 0 0]/FormType 1/Resources<<>>/BBox[0 0 16 16]/Length 73>>stream
+xœ3R(ç2Tğâ,.=cS33=SS mn`i¡ä”1U0RÈå2S°²r¸‚¹Œ´#ÄÌÌÁ2†@É­l
+endstream
+endobj
+16 0 obj
+<</Subtype/Form/Filter/FlateDecode/Type/XObject/Matrix [1 0 0 1 0 0]/FormType 1/Resources<<>>/BBox[0 0 16 16]/Length 25>>stream
+xœ³P0PÈå24S ¢.•Æ 4a
+endstream
+endobj
+17 0 obj
+<</Subtype/Form/Filter/FlateDecode/Type/XObject/Matrix [1 0 0 1 0 0]/FormType 1/Resources<<>>/BBox[0 0 16 16]/Length 25>>stream
+xœ³P04SÈå
+9\`2 /â*
+endstream
+endobj
+21 0 obj
+<</Subtype/Form/Filter/FlateDecode/Type/XObject/Matrix [1 0 0 1 0 0]/FormType 1/Resources<<>>/BBox[0 0 1 1]/Length 8>>stream
+xœ    
+endstream
+endobj
+33 0 obj
+<</Shading 129 0 R/Matrix[1 0 0 1 0 0]/PatternType 2>>
+endobj
+31 0 obj
+<</Shading 130 0 R/Matrix[1 0 0 1 0 0]/PatternType 2>>
+endobj
+29 0 obj
+<</Shading 131 0 R/Matrix[1 0 0 1 0 0]/PatternType 2>>
+endobj
+20 0 obj
+<</Shading 132 0 R/Matrix[1 0 0 1 0 0]/PatternType 2>>
+endobj
+23 0 obj
+<</Shading 133 0 R/Matrix[1 0 0 1 0 0]/PatternType 2>>
+endobj
+27 0 obj
+<</Shading 134 0 R/Matrix[1 0 0 1 0 0]/PatternType 2>>
+endobj
+25 0 obj
+<</Shading 135 0 R/Matrix[1 0 0 1 0 0]/PatternType 2>>
+endobj
+35 0 obj
+<</Shading 136 0 R/Matrix[1 0 0 1 0 0]/PatternType 2>>
+endobj
+37 0 obj
+<</Shading 137 0 R/Matrix[1 0 0 1 0 0]/PatternType 2>>
+endobj
+39 0 obj
+<</Shading 138 0 R/Matrix[1 0 0 1 0 0]/PatternType 2>>
+endobj
+133 0 obj
+<</ColorSpace/DeviceRGB/Coords[0 499.2 0 486.4]/ShadingType 2/Function 22 0 R/Extend[true true]>>
+endobj
+136 0 obj
+<</ColorSpace/DeviceRGB/Coords[0 128 0 115.2]/ShadingType 2/Function 34 0 R/Extend[true true]>>
+endobj
+132 0 obj
+<</ColorSpace/DeviceRGB/Coords[0 332.8 0 320]/ShadingType 2/Function 19 0 R/Extend[true true]>>
+endobj
+134 0 obj
+<</ColorSpace/DeviceRGB/Coords[0 473.6 0 460.8]/ShadingType 2/Function 26 0 R/Extend[true true]>>
+endobj
+130 0 obj
+<</ColorSpace/DeviceRGB/Coords[0 179.2 0 166.4]/ShadingType 2/Function 30 0 R/Extend[true true]>>
+endobj
+137 0 obj
+<</ColorSpace/DeviceRGB/Coords[0 345.6 0 332.8]/ShadingType 2/Function 36 0 R/Extend[true true]>>
+endobj
+138 0 obj
+<</ColorSpace/DeviceRGB/Coords[0 480 0 452]/ShadingType 2/Function 38 0 R/Extend[true true]>>
+endobj
+129 0 obj
+<</ColorSpace/DeviceRGB/Coords[0 256 0 243.2]/ShadingType 2/Function 32 0 R/Extend[true true]>>
+endobj
+131 0 obj
+<</ColorSpace/DeviceRGB/Coords[0 140.8 0 128]/ShadingType 2/Function 28 0 R/Extend[true true]>>
+endobj
+135 0 obj
+<</ColorSpace/DeviceRGB/Coords[0 486.4 0 473.6]/ShadingType 2/Function 24 0 R/Extend[true true]>>
+endobj
+111 0 obj
+<</Kids[112 0 R 113 0 R 115 0 R 118 0 R]/Type/Pages/Count 4/ITXT(1.3.26)>>
+endobj
+139 0 obj
+<</Names[(ModeloLogicoTransacional) 119 0 R(transacional.categoria) 120 0 R(transacional.cliente) 121 0 R(transacional.endereco) 122 0 R(transacional.funcionario) 123 0 R(transacional.inventario) 124 0 R(transacional.item_produto) 125 0 R(transacional.localidade) 126 0 R(transacional.produto) 127 0 R(transacional.venda) 128 0 R]>>
+endobj
+140 0 obj
+<</Dests 139 0 R>>
+endobj
+141 0 obj
+<</Names 140 0 R/Type/Catalog/Pages 111 0 R>>
+endobj
+142 0 obj
+<</ModDate(D:20211214155516-08'00')/CreationDate(D:20211214155516-08'00')/Producer(OpenPDF 1.3.26)>>
+endobj
+xref
+0 143
+0000000000 65535 f 
+0000019508 00000 n 
+0000019698 00000 n 
+0000019859 00000 n 
+0000020020 00000 n 
+0000020262 00000 n 
+0000020517 00000 n 
+0000020713 00000 n 
+0000020905 00000 n 
+0000021118 00000 n 
+0000021442 00000 n 
+0000021725 00000 n 
+0000022030 00000 n 
+0000022266 00000 n 
+0000022501 00000 n 
+0000022732 00000 n 
+0000022960 00000 n 
+0000023140 00000 n 
+0000019419 00000 n 
+0000000015 00000 n 
+0000023693 00000 n 
+0000023320 00000 n 
+0000000117 00000 n 
+0000023764 00000 n 
+0000000219 00000 n 
+0000023906 00000 n 
+0000000321 00000 n 
+0000023835 00000 n 
+0000000423 00000 n 
+0000023622 00000 n 
+0000000525 00000 n 
+0000023551 00000 n 
+0000000627 00000 n 
+0000023480 00000 n 
+0000000729 00000 n 
+0000023977 00000 n 
+0000000831 00000 n 
+0000024048 00000 n 
+0000000933 00000 n 
+0000024119 00000 n 
+0000001017 00000 n 
+0000001137 00000 n 
+0000001271 00000 n 
+0000001392 00000 n 
+0000001542 00000 n 
+0000001685 00000 n 
+0000001818 00000 n 
+0000001938 00000 n 
+0000002087 00000 n 
+0000002230 00000 n 
+0000002371 00000 n 
+0000002511 00000 n 
+0000002654 00000 n 
+0000002790 00000 n 
+0000002911 00000 n 
+0000003061 00000 n 
+0000003200 00000 n 
+0000003336 00000 n 
+0000003471 00000 n 
+0000003607 00000 n 
+0000003741 00000 n 
+0000003871 00000 n 
+0000004011 00000 n 
+0000004150 00000 n 
+0000004276 00000 n 
+0000004426 00000 n 
+0000004573 00000 n 
+0000004716 00000 n 
+0000004859 00000 n 
+0000004995 00000 n 
+0000005118 00000 n 
+0000005270 00000 n 
+0000005417 00000 n 
+0000005558 00000 n 
+0000005695 00000 n 
+0000005831 00000 n 
+0000005954 00000 n 
+0000006100 00000 n 
+0000006238 00000 n 
+0000006371 00000 n 
+0000006509 00000 n 
+0000006645 00000 n 
+0000006788 00000 n 
+0000006925 00000 n 
+0000007063 00000 n 
+0000007201 00000 n 
+0000007326 00000 n 
+0000007478 00000 n 
+0000007623 00000 n 
+0000007764 00000 n 
+0000007898 00000 n 
+0000008033 00000 n 
+0000008169 00000 n 
+0000008303 00000 n 
+0000008435 00000 n 
+0000008570 00000 n 
+0000008692 00000 n 
+0000008839 00000 n 
+0000008970 00000 n 
+0000009111 00000 n 
+0000009244 00000 n 
+0000009365 00000 n 
+0000009514 00000 n 
+0000009654 00000 n 
+0000009797 00000 n 
+0000009934 00000 n 
+0000010079 00000 n 
+0000010218 00000 n 
+0000010358 00000 n 
+0000010502 00000 n 
+0000010646 00000 n 
+0000025328 00000 n 
+0000014615 00000 n 
+0000016716 00000 n 
+0000015435 00000 n 
+0000018129 00000 n 
+0000016835 00000 n 
+0000018248 00000 n 
+0000018902 00000 n 
+0000019021 00000 n 
+0000019061 00000 n 
+0000019101 00000 n 
+0000019141 00000 n 
+0000019181 00000 n 
+0000019221 00000 n 
+0000019260 00000 n 
+0000019300 00000 n 
+0000019340 00000 n 
+0000019380 00000 n 
+0000024987 00000 n 
+0000024646 00000 n 
+0000025100 00000 n 
+0000024418 00000 n 
+0000024190 00000 n 
+0000024531 00000 n 
+0000025213 00000 n 
+0000024305 00000 n 
+0000024761 00000 n 
+0000024876 00000 n 
+0000025420 00000 n 
+0000025770 00000 n 
+0000025806 00000 n 
+0000025869 00000 n 
+trailer
+<</Info 142 0 R/ID [<f6e5c918493b7ffaaade2f54fa260166><2813b793d0c7c85a590d4d447fba9305>]/Root 141 0 R/Size 143>>
+startxref
+25987
+%%EOF

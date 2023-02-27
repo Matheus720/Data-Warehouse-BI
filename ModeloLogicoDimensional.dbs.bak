@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<project name="MySql" id="Project-13f5" database="MySql" >
+	<schema name="dimensional" >
+		<table name="dim_cliente" >
+			<column name="sk_cliente" type="int" jt="4" mandatory="y" />
+			<column name="nk_id_cliente" prior="id_cliente" type="varchar" length="20" jt="12" />
+			<column name="nm_cliente" prior="nome_cliente" type="varchar" length="100" jt="12" />
+			<column name="nm_cidade_cliente" prior="cidade_cliente" type="varchar" length="50" jt="12" />
+			<column name="by_aceita_campanha" prior="aceita_campanha" type="binary" length="1" jt="-2" />
+			<column name="desc_cep" prior="cep" type="varchar" length="8" jt="12" />
+			<index name="pk_dim_cliente" unique="PRIMARY_KEY" >
+				<column name="sk_cliente" />
+			</index>
+			<options><![CDATA[engine=InnoDB]]></options>
+		</table>
+		<table name="dim_localidade" >
+			<column name="sk_localidade" type="int" jt="4" mandatory="y" />
+			<column name="nk_id_localidade" prior="id_localidade" type="varchar" length="20" jt="12" />
+			<column name="nm_localidade" prior="nome_localidade" type="varchar" length="50" jt="12" />
+			<column name="nm_cidade_localidade" prior="cidade_localidade" type="varchar" length="50" jt="12" />
+			<column name="nm_regiao_localidade" prior="regiao_localidade" type="varchar" length="50" jt="12" />
+			<index name="pk_dim_localidade" unique="PRIMARY_KEY" >
+				<column name="sk_localidade" />
+			</index>
+			<options><![CDATA[engine=InnoDB]]></options>
+		</table>
+		<table name="dim_produto" >
+			<column name="sk_produto" type="int" jt="4" mandatory="y" />
+			<column name="nk_id_produto" prior="id_produto" type="varchar" length="20" jt="12" />
+			<column name="desc_sku" prior="sku" type="varchar" length="50" jt="12" />
+			<column name="nm_produto" prior="nome_produto" type="varchar" length="50" jt="12" />
+			<column name="nm_categoria_produto" prior="categoria_produto" type="varchar" length="30" jt="12" />
+			<column name="nm_marca_produto" prior="marca_produto" type="varchar" length="30" jt="12" />
+			<index name="pk_dim_produto" unique="PRIMARY_KEY" >
+				<column name="sk_produto" />
+			</index>
+			<options><![CDATA[engine=InnoDB]]></options>
+		</table>
+		<table name="dim_tempo" >
+			<column name="sk_data" type="int" jt="4" mandatory="y" />
+			<column name="data" type="date" jt="91" />
+			<column name="desc_data_completa" prior="data_completa" type="varchar" length="50" jt="12" />
+			<column name="nr_ano" prior="ano" type="int" jt="4" />
+			<column name="nm_trimestre" prior="nr_trimestre" type="int" jt="4" />
+			<column name="nr_mes" prior="mes" type="int" jt="4" />
+			<column name="nm_mes" type="varchar" length="10" jt="12" />
+			<column name="nr_semana" prior="semana" type="int" jt="4" />
+			<column name="nm_ano_semana" type="varchar" length="20" jt="12" />
+			<column name="nr_dia" prior="dia" type="int" jt="4" />
+			<column name="nm_dia_semana" type="varchar" length="10" jt="12" />
+			<column name="flag_feriado" type="char" length="3" jt="1" />
+			<column name="nm_feriado" type="varchar" length="20" jt="12" />
+			<index name="pk_dim_tempo" unique="PRIMARY_KEY" >
+				<column name="sk_data" />
+			</index>
+			<options><![CDATA[engine=InnoDB]]></options>
+		</table>
+		<table name="fato_venda" >
+			<column name="sk_cliente" type="int" jt="4" mandatory="y" />
+			<column name="sk_produto" type="int" jt="4" mandatory="y" />
+			<column name="sk_localidade" type="int" jt="4" mandatory="y" />
+			<column name="sk_data" type="int" jt="4" mandatory="y" />
+			<column name="valor_venda" type="decimal" length="5" decimal="2" jt="3" />
+			<column name="quantidade_venda" type="int" jt="4" />
+			<index name="pk_fato_venda" unique="PRIMARY_KEY" >
+				<column name="sk_cliente" />
+				<column name="sk_produto" />
+				<column name="sk_localidade" />
+				<column name="sk_data" />
+			</index>
+			<fk name="fk_fato_venda_dim_cliente" to_schema="dimensional" to_table="dim_cliente" delete_action="cascade" update_action="cascade" >
+				<fk_column name="sk_cliente" pk="sk_cliente" />
+			</fk>
+			<fk name="fk_fato_venda_dim_produto" to_schema="dimensional" to_table="dim_produto" delete_action="cascade" update_action="cascade" >
+				<fk_column name="sk_produto" pk="sk_produto" />
+			</fk>
+			<fk name="fk_fato_venda_dim_localidade" to_schema="dimensional" to_table="dim_localidade" delete_action="cascade" update_action="cascade" >
+				<fk_column name="sk_localidade" pk="sk_localidade" />
+			</fk>
+			<fk name="fk_fato_venda_dim_tempo" to_schema="dimensional" to_table="dim_tempo" delete_action="cascade" update_action="cascade" >
+				<fk_column name="sk_data" pk="sk_data" />
+			</fk>
+			<options><![CDATA[engine=InnoDB]]></options>
+		</table>
+	</schema>
+	<connector name="MySql" database="MySql" driver_class="com.mysql.jdbc.Driver" driver_jar="mysql-connector-java-8.0.23.jar" driver_desc="Standard" host="localhost" port="3306" instance="dimensional" user="dmpm" passwd="ZHNhY2FkZW15MTIz" />
+	<layout name="ModeloLogicoDimensional" id="Layout-15a7" show_relation="columns" >
+		<entity schema="dimensional" name="dim_cliente" color="C1D8EE" x="128" y="112" />
+		<entity schema="dimensional" name="dim_localidade" color="C1D8EE" x="688" y="96" />
+		<entity schema="dimensional" name="dim_produto" color="C1D8EE" x="112" y="400" />
+		<entity schema="dimensional" name="dim_tempo" color="C1D8EE" x="704" y="336" />
+		<entity schema="dimensional" name="fato_venda" color="C1D8EE" x="416" y="272" />
+		<callout x="48" y="48" pointer="Round" >
+			<comment><![CDATA[Modelo Lógico Dimensional]]></comment>
+		</callout>
+	</layout>
+</project>
