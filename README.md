@@ -17,7 +17,7 @@ Modelos e Códigos que usei pra construir:
 - Query S.Q.L para consulta dos campeões de vendas no banco de dados.  
 - Formulas Dax de análise e Perguntas de Negócio:
 
-Que resultam na Resolução de 6 mais valisas perguntas de negócio
+Que nos responde estas 6 perguntas de negócio.
 - Valor Médio Vendido
 - Total de Venda Por Cidade do Cliente
 - Total de Venda Por Região da Localidade de Venda
