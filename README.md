@@ -38,22 +38,37 @@ Na Construção do modelo físico usei o app *DB SCHEMA* que gera as visualizaç
 
 
 - COLETA DE DADOS
+
+
 		No processo de E.T.L fiz a carga de dados preenchendo valores de cada tabela manualmente com códigos S.Q.L 
 
 
 
+
 - LIMPESA DE DADOS
+
+
  Através do modelo Analítico (Lógico Dimensional) e servirá de fonte para o power bi consultar as análises.
 Em Anexo codigos com sua devida normalização dos dados na modelagem dimensional ajuda a garantir que as consultas sejam executadas rapidamente, o que é crítico em ambientes de análise em larga escala.
 - SQL
 
 
-	Análise
+
+
+
+	- Análise
+
+
 Para explorar meus conhecimentos em S.Q.L fiz um consulta direto no power-bi, nesta query selecionei as vendas com valores somente acima de 500
 - Query.SQL
 
 
-	Resultados;Solução
+
+
+
+	- Resultados;Solução
+
+
 Criação do Data Warehouse, das interfaces ETL e da construção do projeto de análise de dados no Power BI. A administração e suporte de primeiro nível será de responsabilidade da equipe de TI da empresa.
 Relatório de KPIs referentes ao negócio da empresa  úteis para compreender erros/acertos na gestão até dias atuais para ajudar na definição da estratégia de crescimento para os próximos anos:
 - Valor Médio Vendido
